@@ -7,7 +7,9 @@ Prof. Marcus M. Darden
 ### Contact Info
 
 Office: Mott 112
+
 email: marcus.darden@cs.olivetcollege.edu
+
 Office Hours: {{ site.data.current.officehours }}
 
 ### {{ site.data.current.semester }} {{ site.data.current.year }} Courses
