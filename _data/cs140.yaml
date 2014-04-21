@@ -1,50 +1,66 @@
-semester: "Spring"
+semester: 'Spring'
 year: 2014
 
 hw01: {
-assigned: "",
-due: "",
+title: 'Homework 1',
+assigned: '',
+due: '',
+deliverables: 'homework01.py',
 }
 
 hw02: {
-assigned: "",
-due: "",
+title: 'Homework 2',
+assigned: '',
+due: '',
+deliverables: 'homework02.py',
 }
 
 hw03: {
-assigned: "",
-due: "",
+title: 'Homework 3',
+assigned: '',
+due: '',
+deliverables: 'homework03.py',
 }
 
 hw04: {
-assigned: "",
-due: "",
+title: 'Homework 4',
+assigned: '',
+due: '',
+deliverables: 'homework04.py',
 }
 
 hw05: {
-assigned: "",
-due: "",
+title: 'Homework 5',
+assigned: '',
+due: '',
+deliverables: 'homework05.py',
 }
 
 hw06: {
-assigned: "",
-due: "",
+title: 'Homework 6',
+assigned: '',
+due: '',
+deliverables: 'homework06.py',
 }
 
 hw07: {
-assigned: "",
-due: "",
+title: 'Homework 7',
+assigned: '',
+due: '',
+deliverables: 'homework07.py',
 }
 
 hw08: {
-assigned: "",
-due: "",
+title: 'Homework 8',
+assigned: '',
+due: '',
+deliverables: 'homework08.py',
 }
 
 hw09: {
 title: 'Homework 9',
-assigned: "",
-due: "2014-04-23",
+assigned: '',
+due: '2014-04-23',
 deliverables: 'homework09.py',
 }
 
