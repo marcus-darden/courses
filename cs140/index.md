@@ -4,17 +4,19 @@ course: cs140
 categories: coursepage
 ---
 
+{% assign course = site.data.catalog[page.course] %}
+
 {% unless site.data.current.courses contains page.course %}
 _Course is currently inactive_
 ------------------------------
 {% endunless %}
 
-{{ site.data.catalog[page.course].title }}
-==========================================
+{{ course.title }}
+==================
 
 ### Description
 
-{{ site.data.catalog[page.course].description }}
+{{ course.description }}
 
 ### Links
 
