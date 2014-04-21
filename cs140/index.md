@@ -1,5 +1,5 @@
 ---
-title: "CS 140: Computer Science I"
+layout: default
 course: cs140
 categories: coursepage
 ---
@@ -9,12 +9,12 @@ _Course is currently inactive_
 ------------------------------
 {% endunless %}
 
-{{ page.title }}
-================
+{{ site.data.catalog[page.course].title }}
+==========================================
 
 ### Description
 
-Insert catalog description here.
+{{ site.data.catalog[page.course].description }}
 
 ### Links
 

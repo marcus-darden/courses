@@ -1,4 +1,5 @@
 ---
+layout: default
 title: "CS 140 Schedule"
 course: cs140
 ---
