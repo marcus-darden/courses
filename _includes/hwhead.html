@@ -1,0 +1,13 @@
+{% assign course = site.data.catalog[page.course] %}
+{% assign data = site.data[page.course] %}
+{% assign hw = data[page.hw] %}
+
+<h1>{{ course.title }}</h1>
+
+<strong>{{ data.semester }} {{ data.year }}</strong></br>
+
+<h2>{{ hw.title }}</h2>
+
+<p><strong>Assigned:</strong> {{ hw.assigned }}</br>
+<strong>Due:</strong> {{ hw.due }}</p>
+
