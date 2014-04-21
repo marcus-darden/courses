@@ -1,6 +1,7 @@
 ---
-title: Homework 1
+layout: homework
 categories: homework
+hw: hw01
 course: cs240
 ---
 
