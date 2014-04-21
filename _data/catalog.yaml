@@ -1,0 +1,162 @@
+cs110: {
+title: "CS 110 Computer Information Systems",
+offered: "Fall and Spring Semesters.",
+sh: "3 semester hours.",
+description: "Introduction to computer information systems. Literacy, hardware and software concepts, history, social and ethical issues, elementary systems software and applications software such as word processor, spreadsheet, database, communications and graphics packages. Does not count toward a major or minor in Computer Science."
+}
+
+cs116: {
+title: "CS 116 Web Design and Development",
+offered: "Fall and Spring Semesters.",
+sh: "3 semester hours.",
+satisfies: "Satisfies Creative Experience requirement.",
+description: "Students will learn basic HTML scripting, use of Web editors to create various styles of Web pages (single and multi-page sites, online forms, CSS, etc.), management of Web sites and use of animated Web programming. CS 116 does not count toward a major or minor in Computer Science."
+}
+
+cs130: {
+title: "CS 130 Principles of Computing",
+offered: "Fall Semester.",
+sh: "3 semester hours.",
+prereq: "Prerequisites: MTH 109 or concurrent.",
+description: "Students will learn to identify problems that programs can solve and how to design programs that solve problems. Program design involves a series of smaller skills, including information design, logic design, testing, and documentation. Improved skills in these areas should help with general problem solving even outside the programming paradigm."
+}
+
+cs140: {
+title: "CS 140 Computer Science I",
+offered: "Spring Semester.",
+sh: "4 semester hours.",
+prereq: "Prerequisites: C or higher in MTH 150.",
+description: "Introduction to algorithm development and structured programming using the C++ programming language. I/O, arithmetic and logic operations, selection and looping structures, subprograms, parameter passing techniques, strings, and one and two dimensional arrays."
+}
+
+cs150: {
+title: "CS 150 Competition Programming",
+offered: "Fall and Spring Semesters.",
+sh: "1 semester hour.",
+prereq: "Prerequisites: C or higher in CS 130.",
+description: "Students will learn how to compete successfully in a programming competition, create programming problems from start to finish, and how to plan a programming competition to be executed by the students as the final. Elements of problem design and implementation, and a selection of possible programming environments, will also be discussed."
+}
+
+cs210: {
+title: "CS 210 Advanced Computer Information",
+ offered: "Systems 
+Fall and Spring Semesters.",
+sh: "3 semester hours.",
+prereq: "Prerequisites: CS 110 with C or higher or equivalent.",
+description: "Students will gain an advanced level of competency in computer hardware, operating systems, and applications software such as word processor, spreadsheet, database, HTML, and presentation programs. CS 210 is designed to progress advanced students towards completion of Microsoft Office Applications Certification (MOS). Users will become familiar with all components of the Microsoft Office Suite. CS 210 does not count toward a major or minor in computer science."
+}
+
+cs240: {
+title: "CS 240 Computer Science II",
+offered: "Fall Semester.",
+sh: "4 semester hours.",
+prereq: "Prerequisites: C or higher in CS 140.",
+description: "Continuation of CS 140. Recursion, elementary searching and sorting techniques and intermediate data structures such as records, arrays of records, stacks, queues, linked lists and introduction to binary trees."
+}
+
+cs270: {
+title: "CS 270 Software Engineering",
+offered: "Spring Semester, odd years.",
+sh: "3 semester hours.",
+prereq: "Prerequisites: C or higher in CS 240.",
+description: "Introduction to software engineering as a discipline with an emphasis on design patterns. The course will cover the stages of the software life cycle, requirements analysis, structured and object-oriented analysis and design methods. It also discusses verification/validation, quality assurance, testing methods, maintenance, documentation, project management and team structure."
+}
+
+cs310: {
+title: "CS 310 Seminar in Computer Ethics",
+offered: "Fall Semester, even years.",
+sh: "1 semester hour.",
+prereq: "Prerequisites: C or higher in CS 140.",
+description: "Social, legal, and ethical issues in computer science including privacy, piracy and responsibility."
+}
+
+cs340: {
+title: "CS 340 Data Structures & Algorithms",
+offered: "Spring Semester, even years.",
+sh: "3 semester hours.",
+prereq: "Prerequisites: C or higher in CS 240.",
+description: "Advanced data structures including doubly linked lists, binary trees, binary search trees, heaps, B-trees, graphs, advanced searching and sorting techniques, and elementary algorithm analysis."
+}
+
+cs350: {
+title: "CS 350 Database Programming",
+offered: "Fall Semester, even years.",
+sh: "3 semester hours.",
+prereq: "Prerequisites: C or higher in CS 240.",
+description: "Database design principles, relational data models, query languages and optimizations, transaction processing, recovery techniques. Object-oriented databases, distributed databases. Storage and access methods including indexing, hashing and range accesses."
+}
+
+cs360: {
+title: "CS 360 Computer Organization and",
+offered: "Assembly Language 
+Spring Semester, even years.",
+sh: "4 semester hours.",
+prereq: "Prerequisites: C or higher in CS 240.",
+description: "Logic circuits, digital components, data representation, register transfer, micro-operations, organization, design, machine language and micro code."
+}
+
+cs380: {
+title: "CS 380 Practicum in Programming Languages",
+offered: "As announced.",
+sh: "1 semester hour.",
+prereq: "Prerequisites: C or higher in CS 240 or instructor permission.",
+description: "Examination of a paradigm and/or programming language such as C++, FORTRAN, LISP, Java, SQL, Scheme and Web programming and/or a methodology such as object oriented, functional or scientific programming. May be repeated for credit provided the subject matter is different."
+}
+
+cs402: {
+title: "CS 402 Computer Graphics",
+offered: "Spring Semester, odd years.",
+sh: "3 semester hours.",
+prereq: "Prerequisites: C or higher in CS 240.",
+description: "Introduction to computer graphics programming including lines, curves, windows, clipping, two and three dimensional transformations, projections and hidden line removal."
+}
+
+cs408: {
+title: "CS 408 Introduction to Cognitive Programming",
+offered: "Spring Semester, even years.",
+sh: "3 semester hours.",
+prereq: "Prerequisites: C or higher in CS 340 or concurrent.",
+description: "Artificial intelligence, knowledge representation, inference methods, and expert system shells and programming."
+}
+
+cs410: {
+title: "CS 410 Introduction to Network Programming",
+offered: "Fall Semester, odd years.",
+sh: "3 semester hours.",
+prereq: "Prerequisites: C or higher in CS 340 or concurrent.",
+description: "Digital communication theory, network structures and components, switching techniques, network functions, layered network architectures, data link protocols, network control, and examples of LAN and WAN networks. Hardware and software support for networking."
+}
+
+cs412: {
+title: "CS 412 Operating Systems",
+offered: "Fall Semester, even years.",
+sh: "3 semester hours.",
+prereq: "Prerequisites: C or higher in CS 360 or concurrent.",
+description: "Operating systems principles, including processes, concurrent processes, deadlock, storage, virtual storage, scheduling and distributed computing. Examples from MS-DOS, Windows, and UNIX-like operating systems."
+}
+
+cs418: {
+title: "CS 418 Independent Study in Computer Science",
+offered: "As announced.",
+sh: "1-3 semester hours.",
+prereq: "Prerequisites: C or higher in CS 340, 3.0 overall grade point average, junior or senior status, instructor permission, and approval of course outline by the Academic Performance Committee.",
+description: "Independent reading and research in the field of Computer Science."
+}
+ 
+cs450: {
+title: "CS 450 Special Topics in Computer Science",
+offered: "As announced.",
+sh: "1–3 semester hours.",
+prereq: "Prerequisites: instructor permission.",
+description: "Developed by individual faculty and approved by the department to meet the needs of the instructor’s special interest, student interest and/or a rapidly changing curriculum."
+}
+
+cs470: {
+title: "CS 470 Advanced Software Engineering",
+offered: "Fall Semester, odd years.",
+sh: "3 semester hours.",
+satisfies: "Satisfies Senior Experience requirement.",
+prereq: "Prerequisites: C or higher in CS 270.",
+description: "Advanced topics in software engineering and design, including database support and web-based applications."
+}
+
