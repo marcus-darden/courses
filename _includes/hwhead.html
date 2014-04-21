@@ -1,10 +1,9 @@
-{% assign course = site.data.catalog[page.course] %}
-{% assign data = site.data[page.course] %}
-{% assign hw = data[page.hw] %}
+{% assign course = site.data[page.course] %}
+{% assign hw = course[page.hw] %}
 
 <h1>{{ course.title }}</h1>
 
-<strong>{{ data.semester }} {{ data.year }}</strong></br>
+<strong>{{ course.semester }} {{ course.year }}</strong></br>
 
 <h2>{{ hw.title }}</h2>
 

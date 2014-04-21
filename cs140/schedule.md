@@ -7,5 +7,5 @@ course: cs140
 Schedule
 ========
 
-{{ site.data.current.semester }} {{ site.data.current.year }}
+{{ site.data[page.course].semester }} {{ site.data[page.course].year }}
 

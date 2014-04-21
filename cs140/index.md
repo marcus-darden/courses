@@ -4,7 +4,7 @@ course: cs140
 categories: coursepage
 ---
 
-{% assign course = site.data.catalog[page.course] %}
+{% assign course = site.data[page.course] %}
 
 {% unless site.data.current.courses contains page.course %}
 _Course is currently inactive_

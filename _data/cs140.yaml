@@ -1,3 +1,9 @@
+title: "CS 140 Computer Science I"
+offered: "Spring Semester"
+sh: "4 semester hours"
+prereq: "Prerequisites: C or higher in MTH 150"
+description: "Introduction to algorithm development and structured programming using the C++ programming language. I/O, arithmetic and logic operations, selection and looping structures, subprograms, parameter passing techniques, strings, and one and two dimensional arrays."
+
 semester: 'Spring'
 year: 2014
 
