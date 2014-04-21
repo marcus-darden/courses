@@ -1,0 +1,57 @@
+semester: "Spring"
+year: 2014
+
+hw01: {
+assigned: "",
+due: "",
+}
+
+hw02: {
+assigned: "",
+due: "",
+}
+
+hw03: {
+assigned: "",
+due: "",
+}
+
+hw04: {
+assigned: "",
+due: "",
+}
+
+hw05: {
+assigned: "",
+due: "",
+}
+
+hw06: {
+assigned: "",
+due: "",
+}
+
+hw07: {
+assigned: "",
+due: "",
+}
+
+hw08: {
+assigned: "",
+due: "",
+}
+
+hw09: {
+title: 'Homework 9',
+assigned: "",
+due: "2014-04-23",
+deliverables: 'homework09.py',
+}
+
+hw10: {
+title: 'Homework 10',
+assigned: '',
+due: '2014-04-23',
+deliverables: 'homework10.py',
+}
+
