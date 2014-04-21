@@ -87,9 +87,8 @@ description: "Database design principles, relational data models, query language
 }
 
 cs360: {
-title: "CS 360 Computer Organization and",
-offered: "Assembly Language 
-Spring Semester, even years.",
+title: "CS 360 Computer Organization and Assembly Language",
+offered: "Spring Semester, even years.",
 sh: "4 semester hours.",
 prereq: "Prerequisites: C or higher in CS 240.",
 description: "Logic circuits, digital components, data representation, register transfer, micro-operations, organization, design, machine language and micro code."
