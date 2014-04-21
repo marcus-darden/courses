@@ -1,0 +1,79 @@
+title: "CS 340: Data Structures & Algorithms"
+offered: "Spring Semester"
+sh: "4 semester hours"
+prereq: "Prerequisites: C or higher in CS 240"
+description: "Advanced data structures including doubly linked lists, binary trees, binary search trees, heaps, B-trees, graphs, advanced searching and sorting techniques, and elementary algorithm analysis."
+
+semester: 'Spring'
+year: 2014
+
+hw01: {
+title: 'Homework 1',
+assigned: '',
+due: '',
+deliverables: 'homework01.py',
+}
+
+hw02: {
+title: 'Homework 2',
+assigned: '',
+due: '',
+deliverables: 'homework02.py',
+}
+
+hw03: {
+title: 'Homework 3',
+assigned: '',
+due: '',
+deliverables: 'homework03.py',
+}
+
+hw04: {
+title: 'Homework 4',
+assigned: '',
+due: '',
+deliverables: 'homework04.py',
+}
+
+hw05: {
+title: 'Homework 5',
+assigned: '',
+due: '',
+deliverables: 'homework05.py',
+}
+
+hw06: {
+title: 'Homework 6',
+assigned: '',
+due: '',
+deliverables: 'homework06.py',
+}
+
+hw07: {
+title: 'Homework 7',
+assigned: '',
+due: '',
+deliverables: 'homework07.py',
+}
+
+hw08: {
+title: 'Homework 8',
+assigned: '',
+due: '',
+deliverables: 'homework08.py',
+}
+
+hw09: {
+title: 'Homework 9',
+assigned: '',
+due: '2014-04-23',
+deliverables: 'homework09.py',
+}
+
+hw10: {
+title: 'Homework 10',
+assigned: '',
+due: '2014-04-23',
+deliverables: 'homework10.py',
+}
+
