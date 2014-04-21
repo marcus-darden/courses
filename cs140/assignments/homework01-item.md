@@ -1,2 +1,7 @@
-<a href="http://marcus-darden.github.io/courses/cs140/assignments/homework01.html">Homework 1</a>
+---
+---
+
+[Homework 1](homework01.html)  
+
+Submit ````homework01.py```` through "Homework 1" on Blackboard.
 
