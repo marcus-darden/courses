@@ -1,7 +1,7 @@
 ---
 ---
 
-[View Homework 3](homework03.html)  
+<p><a href="homework03.html" target="_blank">View Homework 03</a></p>
 
-Submit ````homework03.py```` through "Homework 3" on Blackboard.
+Submit ````homework03.py```` through "Homework 03" on Blackboard.
 

@@ -1,9 +1,9 @@
 ---
-title: Homework 1
+layout: homework
 categories: homework
+hw: hw03
 course: cs140
 ---
 
-Homework 1
-==========
+### Description
 
