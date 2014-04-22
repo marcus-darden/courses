@@ -1,4 +1,16 @@
 {% include hwhead.html %}
+{% assign course = site.data[page.course] %}
+{% assign hw = course[page.assignment] %}
+
+<h1>{{ course.title }}</h1>
+
+<strong>{{ course.semester }} {{ course.year }}</strong></br>
+
+<h2>{{ hw.title }}</h2>
+
+<p><strong>Assigned: </strong>{{ hw.assigned }}</br>
+<strong>Due: </strong>{{ hw.due }}</p>
 {{ content }}
+<p>Submit your work as <code>{{ hw.deliverables }}</code> through "{{ hw.title }}" on Blackboard.</p>
 {% include hwfoot.html %}
 

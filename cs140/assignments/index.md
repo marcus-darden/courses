@@ -10,6 +10,6 @@ Assignments
 
 ### Homework
 
-{% for p in pages %} {% if p.categories contains "homework" and p.course == page.course %}
-* [{{ site.data[p.course][p.hw].title }}]({{ site.baseurl }}{{ p.url }}) {% endif %} {% endfor %}
+{% for p in pages %} {% if p.layout == 'homework' and p.course == page.course %}
+* [{{ site.data[p.course][p.assignment].title }}]({{ site.baseurl }}{{ p.url }}) {% endif %} {% endfor %}
 

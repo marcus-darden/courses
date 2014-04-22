@@ -1,7 +1,6 @@
 ---
 layout: homework
-categories: homework
-hw: hw05
+assignment: hw05
 course: cs140
 ---
 
